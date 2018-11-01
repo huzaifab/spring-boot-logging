@@ -1,0 +1,8 @@
+application:
+  name: spring-boot-logging
+
+server.port: 9999
+
+logging:
+  level:
+    com.tss: debug
